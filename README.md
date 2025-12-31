@@ -1,5 +1,5 @@
 # Cat-Plinko
-Repo of Cat Plinko
+Cat Plinko Repo, webpage is currently down
 
 ## Libraries used
 
